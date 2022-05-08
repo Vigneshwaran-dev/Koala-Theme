@@ -1,0 +1,38 @@
+{
+    "name": "koala",
+    "displayName": "Koala Theme",
+    "description": "A Good-Looking Dark theme , relax like a koala and code",
+    "icon": "images/koala.png",
+    "version": "0.0.1",
+    "license": "MIT",
+    "homepage": "https://github.com/Vigneshwaran-dev/Koala-Theme/blob/main/README.md",
+    "publisher": "VigneshwaranK",
+    "keywords": [
+        "koala",
+        "koala theme",
+        "dark theme",
+        "theme",
+        "cool",
+        "cyan theme",
+        "green"
+    ],
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/Vigneshwaran-dev/Koala-Theme"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Koala-Codes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Koala-Codes-color-theme.json"
+            }
+        ]
+    }
+}
