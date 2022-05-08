@@ -1,7 +1,5 @@
 ![koala](./images/koala.png)
 
-<br>
-
 # [Koala Theme](https://marketplace.visualstudio.com/items?itemName=VigneshwaranK.koala)
 
 <br>
